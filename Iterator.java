@@ -1,3 +1,6 @@
+// but if there is another panel inside panel, it needs recursive, so it's up to you.
+// this takes 8 lines additionally,
+
 import java.util.Iterator;
 TextBox _angleText;
 
@@ -10,4 +13,4 @@ while (iterator.hasNext()) {
   }        	
 }
 
-//but if there is another panel inside panel, it needs recursive, so it's up to you.
+
